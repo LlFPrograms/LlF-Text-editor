@@ -15,7 +15,7 @@ Basé sur le ***.NET Core*** pas comme [*Tous Les Fichiers .dll avec des images 
 # Q&A
 Trouvez des réponses à vos questions ici: [*Wiki:* **Q&A**](https://github.com/LlFPrograms/LlF-Text-editor/wiki/Q&A)
 
-\
+
 # Versions et infos:
 
 - Par Le lance Flamer, Text editor
